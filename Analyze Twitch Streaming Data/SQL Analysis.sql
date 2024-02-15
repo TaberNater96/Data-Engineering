@@ -5,8 +5,6 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 
-Refer to the images repository and select images labled Twitch to see the query results in order
-
 Twitch is a streaming platform that over 15 million daily active users generating copious amounts of data. The 
 dataset for this particular project is 800,000 rows long and we will use it analyze some popular streaming trends 
 within the area of gaming. This project will utilize some basic query techniques in order to prepare for data 
